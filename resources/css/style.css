@@ -3,8 +3,8 @@ html {
   font-family: Helvetica;
 }
 
-.header {
-
+.header, .cutThroughBanner {
+  background-image: url("../images/the-flatiron-building.png");
 }
 
 footer {
